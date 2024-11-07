@@ -1,1 +1,17 @@
-
+- Product goal
+    - It assists in arranging rides for students and drivers when people need a ride for an event.
+    - It reduces the time and communication for the admin who arranges rides and announcements.
+- Initiative
+    - I want to reduce the communication that is regularly needed, bring the user to one place, and facilitate communication.
+- Core functionalities
+    - Students can request a ride.
+    - Admin can see the list of requests and assign them to the driver with location/time.
+    - The driver can see the list of assigned students and their location/contact info.
+- Tech stack
+    - Frontend: React Native, TypeScript
+    - Backend: Firebase
+- Development tasks
+    - Login/Sign up
+    - Request page
+    - Notification
+    - List of request
